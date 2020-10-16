@@ -7,7 +7,7 @@ public class Cow implements Mammal {
 
 	@Override
 	public void says() {
-		System.out.println("Cow says moo.");
+		System.out.println("Cow says: 'Ela is a great friend'.");
 	}
 
 }
