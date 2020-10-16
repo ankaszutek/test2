@@ -5,5 +5,6 @@ class Main {
 		 x.says();
 		 Calf y = new Calf();
 		 y.walks();
+		 System.out.println("Dziala");
 	 }
 }
