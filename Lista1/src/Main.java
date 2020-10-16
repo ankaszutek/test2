@@ -4,5 +4,6 @@ class Main {
 		 x.eats();
 		 Calf y = new Calf();
 		 y.walks();
+		 System.out.println("Dziala.");
 	 }
 }
